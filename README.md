@@ -1,6 +1,9 @@
 # NumberFormat
 文本框数字或金额格式化
 
+`说明：非作者，修改少部分代码`
+[原项目地址](https://github.com/tianxiangbing/format-number)
+
 # API
 ## 属性
 ### trigger:dom|string
